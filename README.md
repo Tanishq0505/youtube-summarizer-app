@@ -8,9 +8,8 @@ This Streamlit-based app allows users to:
 - Email the summary directly to any address
 - Engage in Q&A with the video using **LangChain QA chatbot** with memory
 
-> Powered by: `LangChain`, `Google Gemini`, `FAISS`, `Streamlit`, and `yt-dlp`.
 
----
+
 
 ## Features
 
