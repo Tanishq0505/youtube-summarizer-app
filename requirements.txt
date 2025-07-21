@@ -1,0 +1,6 @@
+streamlit
+yt-dlp
+webvtt-py
+google-generativeai
+fpdf
+langchain-google-genai
