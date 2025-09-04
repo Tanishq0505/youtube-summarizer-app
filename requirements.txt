@@ -1,6 +1,9 @@
-streamlit
-yt-dlp
-webvtt-py
-google-generativeai
-fpdf
-langchain-google-genai
+streamlit>=1.37.0
+yt-dlp>=2024.7.15
+webvtt-py>=0.5.0
+google-generativeai>=0.7.2
+langchain>=0.2.12
+langchain-community>=0.2.12
+langchain-google-genai>=0.2.0
+faiss-cpu>=1.8.0
+fpdf2>=2.7.8
